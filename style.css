@@ -1,0 +1,24 @@
+body{
+    font: normal 16px Arial;
+    background-color: rgb(104, 15, 134);
+}
+h2{
+    font-size: 300%;
+    font-style: oblique;
+    color: azure;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+a{
+    text-align: center;
+    color: bisque;
+}
+h1{
+    font-style: oblique;
+    color: azure;
+    text-align: center;
+}
